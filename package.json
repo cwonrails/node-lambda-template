@@ -20,6 +20,6 @@
     "deploy": "./node_modules/.bin/node-lambda deploy"
   },
   "devDependencies": {
-    "node-lambda": "^0.9.0"
+    "node-lambda": "^0.11.5"
   }
 }
